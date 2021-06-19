@@ -2,4 +2,4 @@
 
 Little project to practice the concepts of Iterator 
 
-![ScreenShot](tasklist.png)
+![ScreenShot](Profile Scroller.png)
